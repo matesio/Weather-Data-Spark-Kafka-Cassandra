@@ -1,2 +1,4 @@
 # Weather-Data-Spark-Kafka-Cassandra
-Lmbda Architecture
+Lambda Architecture
+
+#Details coming in few days with source code
